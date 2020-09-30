@@ -1,3 +1,5 @@
-# Ágora 🏛
+# Ágora 🏛 [EN DESARROLLO]
 
-Es un juego basado en el famoso Monopoly.
+Proyecto personal basado en el famoso Monopoly.
+
+https://rosasabater.github.io/agora/
